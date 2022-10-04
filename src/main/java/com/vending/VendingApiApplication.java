@@ -14,10 +14,10 @@ import org.springframework.context.annotation.Bean;
 import java.util.Arrays;
 
 @SpringBootApplication
-public class VendingapiApplication {
+public class VendingApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(VendingapiApplication.class, args);
+		SpringApplication.run(VendingApiApplication.class, args);
 	}
 
 	@Bean

@@ -12,9 +12,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import java.net.URI;
 import java.util.List;
 
-/**
- * Created by Lloyd on 02/11/2017.
- */
+
 @RestController
 @RequestMapping("")
 public class MachineRestController {

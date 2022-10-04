@@ -11,9 +11,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 import java.net.URI;
 import java.util.Collection;
 
-/**
- * Created by Lloyd on 02/11/2017.
- */
+
 @RestController
 @RequestMapping("/{machineId}/products")
 public class ProductRestController {

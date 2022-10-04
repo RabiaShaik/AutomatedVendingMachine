@@ -5,9 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Collection;
 
-/**
- * Created by Lloyd on 01/11/2017.
- */
+
 public interface CoinRepository extends JpaRepository<Coin, Long> {
     /**
      * Find all coins in a given machine

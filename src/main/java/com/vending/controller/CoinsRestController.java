@@ -13,9 +13,7 @@ import java.util.List;
 import java.util.Optional;
 import java.util.stream.IntStream;
 
-/**
- * Created by Lloyd on 02/11/2017.
- */
+
 @RestController
 @RequestMapping("/{machineId}/coins")
 public class CoinsRestController {

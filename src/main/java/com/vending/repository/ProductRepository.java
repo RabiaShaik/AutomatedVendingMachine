@@ -5,9 +5,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Collection;
 
-/**
- * Created by Lloyd on 01/11/2017.
- */
+
 public interface ProductRepository extends JpaRepository<Product, Long> {
     /**
      * Find products in a vending machine

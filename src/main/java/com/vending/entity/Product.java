@@ -8,9 +8,7 @@ import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
 
-/**
- * Created by Lloyd on 01/11/2017.
- */
+
 @Entity
 public class Product {
 

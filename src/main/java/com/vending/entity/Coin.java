@@ -7,9 +7,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 import javax.persistence.ManyToOne;
 
-/**
- * Created by Lloyd on 02/11/2017.
- */
+
 @Entity
 public class Coin {
 

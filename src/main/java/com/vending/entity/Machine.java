@@ -7,9 +7,7 @@ import javax.persistence.OneToMany;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by Lloyd on 01/11/2017.
- */
+
 @Entity
 public class Machine {
 
