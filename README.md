@@ -3,6 +3,12 @@
 I have implemented a REST API for Vending Machines using Java Spring. I used a REST API with JSON as this is an recognised standard of API. The API can be tested in a normal web browser,
 POST's may require you to download a web browser plugin for example POSTMAN. 
 
+To run the project : 
+
+Right click on VendingApiApplication under src>main>java and you can see the server up and running
+
+
+
 The following actions can be performed
 
 ```
